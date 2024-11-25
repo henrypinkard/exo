@@ -1,6 +1,7 @@
 # Exoskeleton
 
 
+![Field Testing](inaction_cropped.gif)
 
 
 
@@ -14,13 +15,10 @@ Initial proof of concept
 ![Version 2 Shoe](v2_shoe.JPG)
 
 ![Version 2 Shoe 2](v2_shoe2.JPG)
-*Caption: Alternate view of version 2 shoe design.*
 
-![Field Testing](inaction_cropped.gif)
-Field testing
 
 ![Floor](floor.JPG)
-*The floor workshop.*
+Floor workshop
 
 ## v2
 ![Motion Capture](mocap.jpg)
